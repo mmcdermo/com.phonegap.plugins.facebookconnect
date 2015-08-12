@@ -23,7 +23,7 @@ import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v13.app.Fragment;
 import android.support.v13.app.LoaderManager;
-import android.support.v13.content.Loader;
+import android.support.v4.content.Loader;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
