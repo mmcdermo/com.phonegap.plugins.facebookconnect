@@ -24,7 +24,7 @@ import android.content.IntentFilter;
 import android.content.res.TypedArray;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v4.content.LocalBroadcastManager;
+import android.support.v13.content.LocalBroadcastManager;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.Gravity;
